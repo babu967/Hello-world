@@ -1,3 +1,3 @@
 # Hello-world
-this is read me file
-not its change from master
+this is read me file.
+now its change from master.
